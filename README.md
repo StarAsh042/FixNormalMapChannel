@@ -84,4 +84,4 @@ FixNormalMapChannel/
 - 键盘快捷键与完整的无障碍支持
 
 ## 许可
-MIT License
+[MIT License](LICENSE)
